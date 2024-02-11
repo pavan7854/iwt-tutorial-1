@@ -1,0 +1,31 @@
+body{
+    background-color: #edca1c;
+}
+
+th.A, td.B{
+    border: 1px solid black;
+}
+
+table{
+    border: 1px solid black;
+    width: 480px;
+}
+
+.header{
+    border: 1px solid black;
+    margin: 1px;
+    text-align: center;
+}
+
+table.for-grid{
+    border: 1px solid black;
+    margin: 1px;
+    padding : 3px;
+}
+
+.full{
+    
+    background-color: #de7687;
+    width: 700px;
+    margin: auto;
+}
